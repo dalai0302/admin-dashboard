@@ -1,7 +1,3 @@
-import { Button } from "@/components/ui/button";
-
 export default function Home() {
-  return (
-    <Button variant="destructive" size="lg" className="rounded-full">Button</Button>
-  );
+  return <div className="h-screen flex items-center ju"></div>;
 }
